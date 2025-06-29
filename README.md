@@ -41,6 +41,23 @@ The goal of this simulation was to help a fictional online retail client identif
 - `dashboard/`: Tableau packaged workbook (.twbx)
 - `scripts/`: data cleaning script (optional but good to include)
 
+## 📊 Visual Insights
+- Seasonal sales trends in 2011
+- Revenue by country (excluding UK)
+- Top customers by revenue
+- High-demand regions for expansion
+
+## 🔧 Tools Used
+- Tableau
+- Python (Pandas)
+- GitHub
+
+## 🎯 Skills Practiced
+- Business-focused analysis
+- Visual storytelling
+- Data cleaning
+- Executive presentation
+
 ## 📽️ Walkthrough Video
 
 Watch my full presentation to the CEO and CMO here: 
@@ -48,6 +65,9 @@ Watch my full presentation to the CEO and CMO here:
 ## 🏷️ Tags
 
 `#Tableau` `#DataAnalysis` `#Consulting` `#Tata` `#BusinessIntelligence` `#Forage`
+
+## 📈 Sample Visual
+![Revenue Trend](visuals/q1_trend_chart.png)
 
 ## 📜 License
 
