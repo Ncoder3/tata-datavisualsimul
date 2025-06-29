@@ -43,7 +43,7 @@ The goal of this simulation was to help a fictional online retail client identif
 
 ## 📽️ Walkthrough Video
 
-Watch my full presentation to the CEO and CMO here: [YouTube/Google Drive Link] *(optional)*
+Watch my full presentation to the CEO and CMO here: 
 
 ## 🏷️ Tags
 
