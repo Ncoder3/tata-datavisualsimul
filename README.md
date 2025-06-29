@@ -62,12 +62,13 @@ The goal of this simulation was to help a fictional online retail client identif
 
 Watch my full presentation to the CEO and CMO here: 
 
+## 📈 Sample Visual
+
+![Revenue Trend](visuals/Q1_revenue_trend_chart.png)
+
 ## 🏷️ Tags
 
 `#Tableau` `#DataAnalysis` `#Consulting` `#Tata` `#BusinessIntelligence` `#Forage`
-
-## 📈 Sample Visual
-![Revenue Trend](visuals/q1_trend_chart.png)
 
 ## 📜 License
 
