@@ -2,11 +2,11 @@
 
 This project was completed as part of a virtual job simulation with Tata Consultancy Services via Forage in June 2025.
 
-## 🔍 Project Overview
+## Project Overview
 
 The goal of this simulation was to help a fictional online retail client identify key revenue insights and expansion opportunities by preparing visuals and analysis for the CEO and CMO.
 
-## 📊 Key Tasks Completed
+## Key Tasks Completed
 
 1. **Framed Business Questions**  
    - Drafted relevant questions for the CEO and CMO focusing on revenue, customer behavior, and regional performance.
@@ -27,14 +27,14 @@ The goal of this simulation was to help a fictional online retail client identif
    - Suggested geographic focus for expansion (Netherlands, Germany, France, etc.)
    - Noted customer diversity minimizes dependency on few top customers.
 
-## 💼 Tools Used
+## Tools Used
 
 - Tableau Public
 - Microsoft Excel
 - Python (for optional data cleaning)
 - Forage Platform (simulation host)
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `data/`: cleaned dataset used for analysis
 - `visuals/`: key charts/screenshots of dashboards
@@ -60,7 +60,7 @@ The goal of this simulation was to help a fictional online retail client identif
 
 ## 📽️ Walkthrough Video
 
-Watch my full presentation to the CEO and CMO here: 
+Watch my full presentation to the CEO and CMO here: bit.ly/3Goc1xm
 
 ## 📈 Sample Visual
 
