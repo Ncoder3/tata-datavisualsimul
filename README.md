@@ -36,10 +36,10 @@ The goal of this simulation was to help a fictional online retail client identif
 
 ## Repository Contents
 
-- `data/`: cleaned dataset used for analysis
-- `visuals/`: key charts/screenshots of dashboards
-- `dashboard/`: Tableau packaged workbook (.twbx)
-- `scripts/`: data cleaning script (optional but good to include)
+- [`data/`](./data): cleaned dataset used for analysis
+- [`visuals/`](./visuals): key charts/screenshots of dashboards
+- [`dashboard/`](./Dashboard): Tableau packaged workbook (.twbx)
+- [`scripts/`](./Python_Script): data cleaning script (optional but good to include)
 
 ## 📊 Visual Insights
 - Seasonal sales trends in 2011
