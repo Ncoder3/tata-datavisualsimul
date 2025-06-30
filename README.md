@@ -60,7 +60,7 @@ The goal of this simulation was to help a fictional online retail client identif
 
 ## 📽️ Walkthrough Video
 
-Watch my full presentation to the CEO and CMO here: bit.ly/3Goc1xm
+Watch my full presentation to the CEO and CMO here: [bit.ly/tata_intern_demo](https://youtu.be/oLZ5L6PT_o4)
 
 ## 📈 Sample Visual
 
